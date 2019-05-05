@@ -1,2 +1,2 @@
-# js_blog
-a blog about javascript
+# Javascript學習筆記
+
