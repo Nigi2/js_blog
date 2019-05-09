@@ -1,2 +1,1 @@
-# Javascript學習筆記
-
+# Javascript Remark Record
